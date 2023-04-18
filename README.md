@@ -8,15 +8,13 @@
 
 ## About me
 <div id="me">
-Hello, My name is Gurumoorty Suresh. 
-<ul>
-  <li>I am an Entry Level Machine Learning Engineer</li>
-  <li>I am also a Python Developer</li>
-  <li>Currently searching for jobs and contributing in open source projects</li>
-  <li>Practise coding with the help of minor projects</li>
-  <li>📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Gurumoorty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurumoorty-suresh-0b8aa565) </li>
+Hello, My name is Gurumoorty Suresh.
+- I am an Entry Level Machine Learning Engineer
+- I am also a Python Developer
+- Currently searching for jobs and contributing in open source projects
+- Practise coding with the help of minor projects
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Gurumoorty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurumoorty-suresh-0b8aa565)
 
-  </ul>
   </div>
 
 <!--
